@@ -2,6 +2,16 @@
 
 Opinionated bootstrapper for [React](https://facebook.github.io/react/) projects.
 
+## Dependencies
+
+Stimulant relies on Node.js 4 and NPM 3.
+
+[Download](https://nodejs.org/en/download/) Node.js for your platform first, then run the following to get the latest beta version of NPM 3:
+
+```bash
+$ npm install -g npm@3.0-latest
+```
+
 ## Setup
 
 Simply execute the following commands:
